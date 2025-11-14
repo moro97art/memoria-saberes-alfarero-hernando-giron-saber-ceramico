@@ -1,2 +1,1 @@
-# memoria-saberes-alfarero-hernando-giron-saber-ceramico
-El presente archivo cultural sobre las técnicas y saberes del maestro alfarero Hernando Girón está organizado en seis carpetas, que constituyen los elementos del proceso cerámico del alfarero investigado los cuales son :el diálogo con la tierra, Purificación y colado de la arcilla, Mezcla de fundente y curado, El modelado Manual y moldes, cocción.
+readme
